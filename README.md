@@ -60,5 +60,5 @@
 
 ![2.3](/img/2.3.png)`
 
-[Ссылка на конфигурацию HAProxy](haproxy.cfg)
+[Ссылка на конфигурацию HAProxy](/haproxy.cfg)
 
